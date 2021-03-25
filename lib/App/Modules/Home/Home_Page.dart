@@ -59,11 +59,7 @@ class HomePage extends StatelessWidget {
               )                                                                                 
             ],
           ),
-        ),
-        floatingActionButton: FloatingActionButton(
-          child: Text('+'),
-          onPressed: _.createNewMarc,
-        ),
+        ),        
       
       )
     );
